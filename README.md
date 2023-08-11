@@ -1,4 +1,6 @@
-### Hi there, I'm Mohammad Hosein Salimbahrami as an one Frontend Developer 👋
+### Hi there, I'm Mohammad Hosein Salimbahrami 👋
+
+> ***Frontend Developer***
 
 Here are some ideas to get you started:
 
