@@ -1,7 +1,11 @@
-## Hi there, Welcome to my page 👋
+<p align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=40&lines=Hi+There+%F0%9F%91%8B;Welcome+To+My+Page+%F0%9F%98%8E" alt="Typing SVG" />
+</p>
 
 ----
 <img src='https://github.com/engrmh/engrmh/blob/main/1687160902740.jpeg?raw=true'/>
+
+----
 
 <!-- > ***Frontend Developer*** -->
 
