@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on : A3S (react) <br><br>
 - 🌱 I’m currently learning : ![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) <br><br>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/engrmh"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white</a><br><br>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/engrmh"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> ![](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)</a><br><br>
 - 💬 Ask me about : ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![](https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=Preact&logoColor=white) <br><br>
 - 🖥️ My Officia Site : <a href="https://skylax.ir" target="_blank"><img src="https://img.shields.io/badge/skylax-skylax?style=for-the-badge&color=ffc008" /></a>
 
