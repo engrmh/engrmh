@@ -106,4 +106,6 @@
 <br><br><br>
 
 ----
-<img align='center' src='https://github.com/engrmh/engrmh/blob/main/nsoncjbosn6wlfdyeeij.gif'/>
+<p align='center'>
+  <img src='https://github.com/engrmh/engrmh/blob/main/nsoncjbosn6wlfdyeeij.gif'/>
+</p>
