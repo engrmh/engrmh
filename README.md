@@ -3,7 +3,7 @@
 </p>
 
 ----
-<img src='https://github.com/engrmh/engrmh/blob/main/1687160902740.jpeg?raw=true'/>
+<img src='https://github.com/engrmh/engrmh/blob/main/White Minimalist Profile LinkedIn Banner.png?raw=true'/>
 
 ----
 
