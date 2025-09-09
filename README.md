@@ -1,5 +1,6 @@
 <p align='center'>
-  <img src="https://github.com/engrmh/engrmh/blob/main/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif" alt="Typing SVG" />
+<!--   <img src="https://github.com/engrmh/engrmh/blob/main/211150361-e4b1b881-f322-4689-bd3b-173764ffa1e5.gif" alt="Typing SVG" /> -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF700&center=true&random=true&width=435&lines=print(%22Hello+%F0%9F%91%8B%22);print(%22%F0%9F%91%8B+%D8%B3%D9%84%D8%A7%D9%85%22);print(%22Bonjour+%F0%9F%91%8B%22);print(%22%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B%22);print(%22%F0%9F%91%8B+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%22);print(%22Merhaba+%F0%9F%91%8B%22);print(%22%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B%22))](https://git.io/typing-svg)
 </p>
 
 ----
