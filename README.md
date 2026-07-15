@@ -68,7 +68,6 @@
 ![](https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=Preact&logoColor=white)
 ![](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-![](https://img.shields.io/badge/HeroUI-000000.svg?style=for-the-badge&logo=HeroUI&logoColor=white)
 ![](https://img.shields.io/badge/PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
 
 #### ---- UI LIBRARY ----
@@ -76,6 +75,7 @@
 ![](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white)
+![](https://img.shields.io/badge/HeroUI-000000.svg?style=for-the-badge&logo=HeroUI&logoColor=white)
 ![](https://img.shields.io/badge/Chakra%20UI-1BB2A9.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
 ![](https://img.shields.io/badge/Base%20UI-EDEDED.svg?style=for-the-badge&logo=Base-UI&logoColor=black)
 ![](https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=Radix-UI&logoColor=white)
