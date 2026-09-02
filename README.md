@@ -163,8 +163,8 @@
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark) -->
 
-## ☕️ Support Me
-<a href="https://www.coffeebede.com/engrmh"><img width='200' class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<!--## ☕️ Support Me -->
+<!-- <a href="https://www.coffeebede.com/engrmh"><img width='200' class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a> -->
 
 <br><br>
 
